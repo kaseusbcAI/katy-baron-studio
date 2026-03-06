@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.DS_Store
+
+# Build output
+dist/
+*.zip
+
+# IDEs
+.vscode/
+.idea/
+
+# Local env
+.env
+.env.*
+.gemini/
